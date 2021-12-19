@@ -29,7 +29,7 @@ Version Control
 
 ### 🔗 Social
 
-![Discord](https://img.shields.io/badge/%3CAnsi%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)  ![Instagram](https://img.shields.io/badge/<anns_shahbaz>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CAhmad%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)  ![Instagram](https://img.shields.io/badge/<Ahmad>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
