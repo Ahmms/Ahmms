@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ahmms)
-
 ### 🚀 About Me
 - 👋 I’m Muhammad Ahmad Ashfaq. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023(IA).
 - 👀 I’m interested in Programming, gaming and database.
